@@ -1,8 +1,6 @@
-# Vrushabh Damle
+Vrushabh Damle
 
----
+Full-stack developer at [HireXit AI](https://hirexit.ai/) | Open source contributor
 
-Full-stack developer at HireXit AI | Open source contributor
-
-**Currently exploring:**
-scalable backend systems, database internals, open source projects, applied ai, cloud and devops tools.
+Currently exploring:
+Scalable backend systems, database internals, applied ai, cloud & devops tools, and open source projects.
