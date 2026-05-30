@@ -1,6 +1,6 @@
 Vrushabh Damle
 
-Full-stack developer at [hirexit.ai](https://hirexit.ai/) | Open source contributor
+Full-stack developer at [hirexit.ai](https://hirexit.ai/) | Building and breaking things
 
 Currently exploring:
 
