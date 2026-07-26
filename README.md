@@ -1,4 +1,4 @@
-I am trying to convince machines through my thinking. Because the consequences are serious, I seek consent through deep thinking.
+I am trying to convince systems through my thinking. Because the consequences are serious, I seek consent through deep thinking.
 
 Currently exploring:
 
