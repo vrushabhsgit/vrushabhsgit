@@ -1,12 +1,15 @@
 Hi, I'm Vrushabh 👋
 
-🤖 Polyagentmorous builder
+🤖 Polyagentmorous builder | Open source and building in public.
 
 Building software and agentic AI systems.
 
 ## Projects (Sorted as newst first)
 
-- 🛡️ **[Safety System]** - Multi-agent pre-activation architecture: users set monitoring instructions before entering a vulnerable situation, agents handle anomaly detection and escalation autonomously
-- 🧩 **[Project Name]** - [description]
-- 🧩 **[Project Name]** - [description]
-
+- 🎬 **[YouTube Script Generator](https://github.com/vrushabhsgit/YouTube-Script-Generator)** - AI-powered tool that transforms ideas into engaging YouTube scripts.
+- 🎨 **[Scribble](https://github.com/vrushabhsgit/Scribble)** - Real-time collaborative canvas for visual thinking, live collaboration, and interactive brainstorming.
+- 💸 **[Paisa-Pe](https://github.com/vrushabhsgit/Paisa-Pe)** - Peer-to-peer digital wallet built for secure, seamless money transfers.
+- 💬 **[Chat Room](https://github.com/vrushabhsgit/Chat-Room)** - Real-time chat application for seamless communication between users.
+- 🧠 **[Alzheimer](https://github.com/vrushabhsgit/Alzheimer)** - Your personal second brain to capture, organize, and access knowledge from anywhere.
+- 🎓 **[Skillio](https://github.com/vrushabhsgit/Skillio)** - Full-stack platform for buying, selling, and managing online courses.
+- 🍔 **[FoodVilla](https://github.com/vrushabhsgit/foodvilla)** - Responsive food delivery web app built with React and Tailwind CSS.
