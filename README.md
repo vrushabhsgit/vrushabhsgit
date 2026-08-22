@@ -4,7 +4,8 @@ Hi, I'm Vrushabh 👋
 
 Building software and agentic AI systems.
 
-## Projects (Sorted as newst first)
+## Project Stack
+*LIFO — Newest on top, oldest at the bottom*
 
 - 🎬 **[YouTube Script Generator](https://github.com/vrushabhsgit/YouTube-Script-Generator)** - AI-powered tool that transforms ideas into engaging YouTube scripts.
 - 🎨 **[Scribble](https://github.com/vrushabhsgit/Scribble)** - Real-time collaborative canvas for visual thinking, live collaboration, and interactive brainstorming.
