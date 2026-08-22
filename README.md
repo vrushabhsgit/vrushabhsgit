@@ -4,8 +4,6 @@ Hi, I'm Vrushabh 👋
 
 Open source and building in public.
 
-Building software and agentic AI systems.
-
 ## Project Stack
 *LIFO — Newest on top, oldest at the bottom*
 
