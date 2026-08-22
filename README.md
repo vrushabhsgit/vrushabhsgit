@@ -1,6 +1,8 @@
 Hi, I'm Vrushabh 👋
 
-🤖 Polyagentmorous builder | Open source and building in public.
+🧑‍💻 Software Engineer | 🤖 AI Engineer — Agentic AI Systems | Polyagentmorous builder
+
+Open source and building in public.
 
 Building software and agentic AI systems.
 
