@@ -4,6 +4,8 @@ Hi, I'm Vrushabh 👋
 
 Open source and building in public.
 
+✍️ You can find my writings here → [Medium](https://medium.com/@dwrushabh)
+
 ## Project Stack
 *LIFO — Newest on top, oldest at the bottom*
 
