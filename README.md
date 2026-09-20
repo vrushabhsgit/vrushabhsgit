@@ -6,7 +6,7 @@ Open source and building in public.
 
 ✍️ You can find my writings here → [Medium](https://medium.com/@dwrushabh)
 
-## Project Stack
+## Some of the cool stuff I have built.
 *LIFO — Newest on top, oldest at the bottom*
 
 - 🎬 **[YouTube Script Generator](https://github.com/vrushabhsgit/YouTube-Script-Generator)** - AI-powered tool that transforms ideas into engaging YouTube scripts.
