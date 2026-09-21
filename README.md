@@ -9,7 +9,7 @@ Open source and building in public.
 ## Some of the cool stuff I have built.
 *LIFO — Newest on top, oldest at the bottom*
 
-- 👾 **[getchitti](https://github.com/vrushabhsgit/getchitti)** - Give it a goal. Get a team of AI agents to research, build, market, sell, and support your company.
+- 👾 **[Getchitti](https://github.com/vrushabhsgit/getchitti)** - Give it a goal. Get a team of AI agents to research, build, market, sell, and support your company.
 - 🤖 **[Attention Is All You Need](https://github.com/vrushabhsgit/Attention-Is-All-You-Need)** - A from-scratch PyTorch implementation of the original Transformer architecture.
 - 🎨 **[Scribble](https://github.com/vrushabhsgit/Scribble)** - Real-time collaborative canvas for visual thinking, live collaboration, and interactive brainstorming.
 - 💸 **[Paisa-Pe](https://github.com/vrushabhsgit/Paisa-Pe)** - Peer-to-peer digital wallet built for secure, seamless money transfers.
