@@ -11,7 +11,7 @@ Open source and building in public.
 
 - 👾 **[Getchitti](https://github.com/vrushabhsgit/getchitti)** - Give it a goal. Get a team of AI agents to research, build, market, sell, and support your company.
 - 🤖 **[Attention Is All You Need](https://github.com/vrushabhsgit/Attention-Is-All-You-Need)** - A from-scratch PyTorch implementation of the original Transformer architecture.
-- 🧩 **[GPT-Tokenizer](https://github.com/vrushabhsgit/GPT-Tokenizer)** - Byte Pair Encoding built from scratch in Python, without external libraries. Implements the core algorithm behind GPT-style tokenization.
+- 🧩 **[GPT-Tokenizer](https://github.com/vrushabhsgit/GPT-Tokenizer)** - A GPT-style byte-level BPE tokenizer built from scratch in pure Python.
 - 🎨 **[Scribble](https://github.com/vrushabhsgit/Scribble)** - Real-time collaborative canvas for visual thinking, live collaboration, and interactive brainstorming.
 - 💸 **[Paisa-Pe](https://github.com/vrushabhsgit/Paisa-Pe)** - Peer-to-peer digital wallet built for secure, seamless money transfers.
 - 💬 **[Chat Room](https://github.com/vrushabhsgit/Chat-Room)** - Real-time chat application for seamless communication between users.
