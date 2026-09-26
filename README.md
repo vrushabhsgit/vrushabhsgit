@@ -9,7 +9,7 @@ Open source and building in public.
 ## Some of the cool stuff I have built.
 *LIFO — Newest on top, oldest at the bottom*
 
-- 👾 **[GoQueue](https://github.com/vrushabhsgit/GoQueue)** - A distributed task processing system in Go with Redis Streams, concurrent workers, bounded retries, and crash recovery.
+- 👾 **[GoQueue](https://github.com/vrushabhsgit/GoQueue)** - A distributed task queue built in Go with Redis Streams, concurrent workers, retries, and crash recovery.
 - 👾 **[Getchitti](https://github.com/vrushabhsgit/getchitti)** - Give it a goal. Get a team of AI agents to research, build, market, sell, and support your company.
 - 🤖 **[Attention Is All You Need](https://github.com/vrushabhsgit/Attention-Is-All-You-Need)** - A from-scratch PyTorch implementation of the original Transformer architecture.
 - 🧩 **[GPT-Tokenizer](https://github.com/vrushabhsgit/GPT-Tokenizer)** - A GPT-style byte-level BPE tokenizer built from scratch in pure Python.
