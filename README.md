@@ -2,14 +2,14 @@
 
 📍 **The mother earth** | 🤖 **Builder / Tinkerer / Absurdist**
 
+## About Me
+
+I discovered the idea of code when I was 22 after buying a second hand laptop to watch movies. I bought that after working as a waiter in a cafe. Then I started to code from 23 after getting the idea about what actually the code and programming is. Honestly before that I have no idea about this. Then I started tinkering around this and started to learn and build and found here is a journey of constant suffering. But while tinkering around this I got the instinct of a builder more than just a coder or a programmer and now I am working as a builder you can say as a founder. Umm actually I am seeing myself is a combination of both.
+
 ## Current Projects
 
 - 🦞 **[Project Name](link)** - description
 - 🐾 **[Project Name](link)** - description
-
-## About Me
-
-I discovered the idea of code when I was 22 after buying a second hand laptop to watch movies. I bought that after working as a waiter in a cafe. Then I started to code from 23 after getting the idea about what actually the code and programming is. Honestly before that I have no idea about this. Then I started tinkering around this and started to learn and build and found here is a journey of constant suffering. But while tinkering around this I got the instinct of a builder more than just a coder or a programmer and now I am working as a builder you can say as a founder. Umm actually I am seeing myself is a combination of both.
 
 ## Connect
 
