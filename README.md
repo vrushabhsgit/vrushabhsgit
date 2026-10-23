@@ -9,7 +9,7 @@ I discovered the idea of code when I was 22 after buying a second hand laptop to
 ## Current Projects
 
 - 🦞 **[Project Name](link)** - description
-- 🐾 **[Project Name](link)** - description
+- 🐾 **[Skillio](https://github.com/vrushabhsgit/Skillio)** - A modern platform to buy, sell, and manage online courses with ease.
 
 ## Connect
 
