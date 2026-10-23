@@ -8,7 +8,7 @@ I discovered the idea of code when I was 22 after buying a second hand laptop to
 
 ## Projects
 
-- ↑ **[PaperMind](https://github.com/vrushabhsgit/PaperMind)** - Local-first document memory that answers questions about your personal papers with page-level citations — or stays silent
+- ↑ **[PaperMind](https://github.com/vrushabhsgit/PaperMind)** - Local-first AI that answers questions about your receipts, warranties and policies with page citations
 - ↑ **[Scribble](https://github.com/vrushabhsgit/Scribble)** - A real-time collaborative canvas for visual thinking.
 - ↑ **[Alzheimer](https://github.com/vrushabhsgit/Alzheimer)** - Your Second Brain, organize content from anywhere, all in one place.
 - ↑ **[Paisa-Pe](https://github.com/vrushabhsgit/Paisa-Pe)** - An application that lets users send money to each other using an initial dummy balance.
