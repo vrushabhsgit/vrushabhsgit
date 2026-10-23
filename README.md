@@ -8,12 +8,12 @@ I discovered the idea of code when I was 22 after buying a second hand laptop to
 
 ## Projects
 
-- **[Project Name](link)** - description
-- **[Project Name](link)** - description
-- **[Project Name](link)** - description
-- **[Project Name](link)** - description
-- **[Chat-Room](https://github.com/vrushabhsgit/Chat-Room)** - A real-time chat app powered by WebSockets for seamless, live conversations.
-- **[Skillio](https://github.com/vrushabhsgit/Skillio)** - A modern platform to buy, sell, and manage online courses with ease.
+- ↑ **[Project Name](link)** - description
+- ↑ **[Project Name](link)** - description
+- ↑ **[Project Name](link)** - description
+- ↑ **[Paisa-Pe](https://github.com/vrushabhsgit/Paisa-Pe)** - An application that lets users send money to each other using an initial dummy balance.
+- ↑ **[Chat-Room](https://github.com/vrushabhsgit/Chat-Room)** - A real-time chat app powered by WebSockets for seamless, live conversations.
+- ↑ **[Skillio](https://github.com/vrushabhsgit/Skillio)** - A modern platform to buy, sell, and manage online courses with ease.
 
 ## Connect
 
