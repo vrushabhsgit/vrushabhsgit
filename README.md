@@ -10,12 +10,12 @@ I started tinkering, learning, and building, and found out this is a journey of 
 
 ## Projects
 
-- ↑ **[PaperMind](https://github.com/vrushabhsgit/PaperMind)** - Local-first AI that answers questions about your receipts, warranties and policies with page citations
-- ↑ **[Scribble](https://github.com/vrushabhsgit/Scribble)** - A real-time collaborative canvas for visual thinking
-- ↑ **[Alzheimer](https://github.com/vrushabhsgit/Alzheimer)** - Your second brain, organize content from anywhere, all in one place
-- ↑ **[Paisa-Pe](https://github.com/vrushabhsgit/Paisa-Pe)** - An application that lets users send money to each other using an initial dummy balance
-- ↑ **[Chat-Room](https://github.com/vrushabhsgit/Chat-Room)** - A real-time chat app powered by WebSockets for seamless, live conversations
-- ↑ **[Skillio](https://github.com/vrushabhsgit/Skillio)** - A modern platform to buy, sell, and manage online courses with ease
+- ⇧ **[PaperMind](https://github.com/vrushabhsgit/PaperMind)** - Local-first AI that answers questions about your receipts, warranties and policies with page citations
+- ⇧ **[Scribble](https://github.com/vrushabhsgit/Scribble)** - A real-time collaborative canvas for visual thinking
+- ⇧ **[Alzheimer](https://github.com/vrushabhsgit/Alzheimer)** - Your second brain, organize content from anywhere, all in one place
+- ⇧ **[Paisa-Pe](https://github.com/vrushabhsgit/Paisa-Pe)** - An application that lets users send money to each other using an initial dummy balance
+- ⇧ **[Chat-Room](https://github.com/vrushabhsgit/Chat-Room)** - A real-time chat app powered by WebSockets for seamless, live conversations
+- ⇧ **[Skillio](https://github.com/vrushabhsgit/Skillio)** - A modern platform to buy, sell, and manage online courses with ease
 
 ## Connect
 
