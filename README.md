@@ -1,3 +1,3 @@
 # Hi, I'm Vrushabh 👋
 
-https://www.vrushabh.me/
+[vrushabh.me](https://www.vrushabh.me/)
